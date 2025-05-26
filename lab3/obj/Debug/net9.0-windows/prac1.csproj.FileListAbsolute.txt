@@ -1,0 +1,14 @@
+C:\Users\mirbe\Desktop\Алиса\prac1\bin\Debug\net9.0-windows\prac1.exe
+C:\Users\mirbe\Desktop\Алиса\prac1\bin\Debug\net9.0-windows\prac1.deps.json
+C:\Users\mirbe\Desktop\Алиса\prac1\bin\Debug\net9.0-windows\prac1.runtimeconfig.json
+C:\Users\mirbe\Desktop\Алиса\prac1\bin\Debug\net9.0-windows\prac1.dll
+C:\Users\mirbe\Desktop\Алиса\prac1\bin\Debug\net9.0-windows\prac1.pdb
+C:\Users\mirbe\Desktop\Алиса\prac1\obj\Debug\net9.0-windows\prac1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirbe\Desktop\Алиса\prac1\obj\Debug\net9.0-windows\prac1.AssemblyInfoInputs.cache
+C:\Users\mirbe\Desktop\Алиса\prac1\obj\Debug\net9.0-windows\prac1.AssemblyInfo.cs
+C:\Users\mirbe\Desktop\Алиса\prac1\obj\Debug\net9.0-windows\prac1.csproj.CoreCompileInputs.cache
+C:\Users\mirbe\Desktop\Алиса\prac1\obj\Debug\net9.0-windows\prac1.dll
+C:\Users\mirbe\Desktop\Алиса\prac1\obj\Debug\net9.0-windows\refint\prac1.dll
+C:\Users\mirbe\Desktop\Алиса\prac1\obj\Debug\net9.0-windows\prac1.pdb
+C:\Users\mirbe\Desktop\Алиса\prac1\obj\Debug\net9.0-windows\prac1.genruntimeconfig.cache
+C:\Users\mirbe\Desktop\Алиса\prac1\obj\Debug\net9.0-windows\ref\prac1.dll

@@ -1,0 +1,21 @@
+{
+  "Books": [
+    {
+      "ISBN": "978-5-699-12014-7",
+      "Title": "Война и мир",
+      "Author": "Лев Толстой",
+      "Year": 1869,
+      "IsAvailable": true
+    },
+    {
+      "ISBN": "978-5-17-090194-5",
+      "Title": "Преступление и наказание",
+      "Author": "Федор Достоевский",
+      "Year": 1866,
+      "IsAvailable": true
+    }
+  ],
+  "Readers": [],
+  "Loans": [],
+  "Returns": []
+}
