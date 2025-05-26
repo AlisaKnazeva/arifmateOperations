@@ -1,0 +1,14 @@
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/bin/Debug/net9.0/LibraryProject
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/bin/Debug/net9.0/LibraryProject.deps.json
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/bin/Debug/net9.0/LibraryProject.runtimeconfig.json
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/bin/Debug/net9.0/LibraryProject.dll
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/bin/Debug/net9.0/LibraryProject.pdb
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/obj/Debug/net9.0/LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/obj/Debug/net9.0/LibraryProject.AssemblyInfoInputs.cache
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/obj/Debug/net9.0/LibraryProject.AssemblyInfo.cs
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/obj/Debug/net9.0/LibraryProject.csproj.CoreCompileInputs.cache
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/obj/Debug/net9.0/LibraryProject.dll
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/obj/Debug/net9.0/refint/LibraryProject.dll
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/obj/Debug/net9.0/LibraryProject.pdb
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/obj/Debug/net9.0/LibraryProject.genruntimeconfig.cache
+/Users/alisaknazeva/Desktop/school/lab2/LibraryProject/obj/Debug/net9.0/ref/LibraryProject.dll

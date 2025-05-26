@@ -1,0 +1,14 @@
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/obj/Debug/net9.0/LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/obj/Debug/net9.0/LibrarySystem.AssemblyInfoInputs.cache
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/obj/Debug/net9.0/LibrarySystem.AssemblyInfo.cs
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/obj/Debug/net9.0/LibrarySystem.csproj.CoreCompileInputs.cache
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/bin/Debug/net9.0/LibrarySystem
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/bin/Debug/net9.0/LibrarySystem.deps.json
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/bin/Debug/net9.0/LibrarySystem.runtimeconfig.json
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/bin/Debug/net9.0/LibrarySystem.dll
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/bin/Debug/net9.0/LibrarySystem.pdb
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/obj/Debug/net9.0/LibrarySystem.dll
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/obj/Debug/net9.0/refint/LibrarySystem.dll
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/obj/Debug/net9.0/LibrarySystem.pdb
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/obj/Debug/net9.0/LibrarySystem.genruntimeconfig.cache
+/Users/alisaknazeva/Desktop/school/lab1/LibrarySystem/obj/Debug/net9.0/ref/LibrarySystem.dll
